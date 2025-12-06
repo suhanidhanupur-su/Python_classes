@@ -1,4 +1,8 @@
-print("without using starting point :", my_list[ :4])
-# starting point => 0
-# ending point => 4 
-output 0-3 => [111, 222, 444,44]
+num = int(input("Enter any number: "))
+if num == 99:
+    print("you have entered 99")
+else:
+    print("you have not entered 99")
+
+
+
