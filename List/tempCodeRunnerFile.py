@@ -1,8 +1,1 @@
-my_number = int(input("Hii, Ujwal! Enter your favorite number: "))
-
-if my_number > 0:
-    print("Your favorite number is positive.")
-else:
-    print("Your favorite number is negative.")
-
-
+print(hex(64))
