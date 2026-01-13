@@ -46,4 +46,4 @@ def check_even_odd(num):
 number = int(input("Enter a number: "))
 
 result = check_even_odd(number)
-print(f"The number {number} is {result}.")
+print("The number {number} is {result}.")
