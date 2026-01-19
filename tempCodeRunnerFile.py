@@ -1,0 +1,6 @@
+my_tuple = (11,22,33,44,55,11)
+print(my_tuple)
+print(my_tuple.count(11))
+my_tuple.index(33)
+print(my_tuple)
+print(len(my_tuple))
