@@ -8,8 +8,6 @@ if "Rohit reached the class on time":
 else:
    print("Rohit will not attend the class")
 #NOTE: ":" colon  =>  it is used to define the body of any statement in python.
-
-
 a = 40
 b = 30
 if a > b:  
