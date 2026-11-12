@@ -1,6 +1,9 @@
-my_tuple = (11,22,33,44,55,11)
-print(my_tuple)
-print(my_tuple.count(11))
-my_tuple.index(33)
-print(my_tuple)
-print(len(my_tuple))
+marks = 66
+if marks >= 90:
+    print("Grade A")
+elif marks >= 75:
+    print("Grade B")
+elif marks >= 50:
+    print("Grade c")
+else:
+    print("fail")
