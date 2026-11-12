@@ -1,4 +1,5 @@
 # 🗳️ Program 3: Voting Eligibility in Bihar
+
 my_age = int(input("Hii, Ujwal! Enter your age: "))
 residence = input("Do you live in Bihar? (yes/no): ").lower()
 

@@ -8,8 +8,6 @@ if "Rohit reached the class on time":
 else:
    print("Rohit will not attend the class")
 #NOTE: ":" colon  =>  it is used to define the body of any statement in python.
-
-
 a = 40
 b = 30
 if a > b:  
@@ -24,8 +22,8 @@ else:
     #Notes : in python we use colon : to define the body of if and else, any loop 
 # -> In c language :- in any statement we use curly braces { } to define the body of  if and else,  any loop.
 # -> Semicolon is used to terminate any statement in c language.
- a = 10
-b = 5
+ a = 100
+b = 50
 
 if a > b:
     print("a is greater than b")

@@ -2,7 +2,6 @@
 #   x > 0 => Positive number
 #   x < 0 => Negative number
 #   x == 0 => zero
-
 my_num = int(input("enter the number"))
 
 if my_num > 0:
