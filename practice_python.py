@@ -44,6 +44,7 @@ if age >= 18:
 else:
     print("Not eligible to vote!")
 
+
 # - Q10 – Grade calculation.
 
 marks = 66
